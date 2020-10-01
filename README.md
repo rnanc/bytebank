@@ -1,16 +1,17 @@
-# bytebank
+ <center><h1>:scissors: ByteBank :scissors:</h1></center>
 
-A new Flutter project.
+<img src="assets/bytebank-list.jpg"><img src="assets/bytebank-form.jpg">
 
-## Getting Started
+## About this project
 
-This project is a starting point for a Flutter application.
+Mobile app of a list and a form made for studying purposes.
 
-A few resources to get you started if this is your first Flutter project:
+### Technologies
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Dart
+- Flutter
+- Material Design
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Requirements
+
+- Flutter SDK
